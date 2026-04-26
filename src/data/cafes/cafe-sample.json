@@ -1,0 +1,19 @@
+{
+  "slug": "cafe-sample",
+  "title": "Sample Cafe",
+  "location": {
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "content": {
+    "text": "A quiet corner cafe with good light and slow afternoons.",
+    "images": [],
+    "playlist": "https://open.spotify.com/playlist/example",
+    "book": "Stoner – John Williams"
+  },
+  "meta": {
+    "hours": "Mon–Fri 8am–6pm",
+    "weather": "best in rain"
+  },
+  "published": true
+}
